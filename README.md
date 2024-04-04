@@ -22,6 +22,8 @@ This project is a Market Basket Analysis App that analyzes customer purchase pat
 5. **View Exclusive Offers**: Explore exclusive offers generated based on market basket analysis results.
 6. **Company View**: Companies can view association rules by enabling the "View Association Rules" checkbox in the sidebar and entering the correct password.
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on%20Hugging%20Face-Market%20Basket%20Analysis-blue)](https://huggingface.co/spaces/Raghavendra0827/Market_Basket_Analysis)
+
 ## About the Author
 
 This Market Basket Analysis App is developed by [Raghavendra KN](https://github.com/Raghavendra0827), a passionate developer dedicated to creating innovative solutions using Python and data analysis.
